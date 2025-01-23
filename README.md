@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alphalep.
-- 👀 I’m interested in Computer Vision, Autonomous Vehicle Architecture and Astro-Photography.
+- 👀 I’m interested in Computer Vision, Computational Photography and Machine Learning.
 - 🌱 I’m currently learning Optics , Image Processing and Computer Vision and Probability and Noise Modelling.
 - 💞️ I’m looking to collaborate on Computer Vision projects and other projects of interest.
 - 📫 Send a mail at arnabghosh3107@gmail.com if you want to collaborate.
